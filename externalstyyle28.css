@@ -1,0 +1,27 @@
+input[type="text"]{
+			color: blue;
+			font-size: 50px;
+			background-color: pink;
+
+		}
+		input[type="number"]{
+			color:green;
+			font-size: 50px;
+			background-color: black;
+			
+		}
+		input[type]{
+			color: red;
+
+		}
+		a:hover{
+			color: teal;
+			font-size: 60px;
+		}
+		a:active{
+			color: yellow;
+
+		}
+		input:hover{
+			color: teal;
+			font-size: 60px;

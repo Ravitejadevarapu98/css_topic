@@ -1,0 +1,36 @@
+.a{
+	height: 300px;
+	width: 1200px;
+	background-color:white ;
+	color: gray;
+	border: 2px solid;
+}
+.b{
+	float: left;
+	margin-left: 100px;
+	background-color:teal ;
+	height: 300px;
+	width:300px;
+	color: gray;
+
+}
+.c{
+	float: left;
+	background-color:violet ;
+	height: 300px;
+	width: 300px;
+	color: black;
+	margin-left:100px;
+	
+}
+.d{
+	float: left;
+	height: 300px;
+	width:300px;
+	color: brown;
+	margin-left:100px;
+	background-color: green;
+
+
+
+}

@@ -1,0 +1,17 @@
+.aa{
+	height: 500px;
+	width: 1000px;
+	background-color: red;
+	color: blue;
+	align-content: center;
+	margin: 20px 30px 20px 30px;
+}
+.b{
+	height: 500px;
+	width: 400px;
+	background-color: gray;
+	color: yellow;
+	align-content: center;
+	padding-left: 100px;
+}
+.
